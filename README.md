@@ -2,7 +2,7 @@
 
 Usage:
 ```
-python3 ascii_art.py -h or --help
+python3 ascii_art.py --help
 ```
 
 
