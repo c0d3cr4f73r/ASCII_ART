@@ -1,5 +1,11 @@
 # ASCII_ART
 
+Usage:
+```
+python3 ascii_art.py -h or --help
+```
+
+
 ![image](https://github.com/c1ph3rm4st3r/ASCII_ART/assets/66146701/66c85d49-2fd9-468b-9742-0e6ffc32de27)
 
 ```
