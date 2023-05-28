@@ -14,7 +14,7 @@ python3 ascii_art.py -f slant "hello world"
 
 ![image](https://github.com/c1ph3rm4st3r/ASCII_ART/assets/66146701/3ff9e06e-304e-49ed-a8b8-b7ca5abc7322)
 
-you can save output to a txt file:
+You can save the output to a text file as below:
 
 ```
 python3 ascii_art.py -f slant "hello world" -o helloworld.txt
